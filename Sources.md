@@ -35,6 +35,10 @@
 - [cloud](https://unsplash.com/photos/MHNjEBeLTgw)
 ![](textures/cloud.jpg)
 
-- [cloud](https://unsplash.com/photos/0SIQ3DpQCcs)
+- [concrete](https://unsplash.com/photos/0SIQ3DpQCcs)
+![](textures/concrete.jpg)
+
+- [concrete-dark](https://unsplash.com/photos/0SIQ3DpQCcs)
 ![](textures/concrete-dark.jpg)
+
 
